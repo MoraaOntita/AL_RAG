@@ -10,6 +10,7 @@ cachetools==5.5.0
 certifi==2024.12.14
 charset-normalizer==3.4.0
 click==8.1.7
+cmake==3.31.2
 dataclasses-json==0.6.7
 diskcache==5.6.3
 distro==1.9.0
@@ -115,4 +116,5 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
+wheel==0.45.1
 yarl==1.18.3
