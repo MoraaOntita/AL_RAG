@@ -40,7 +40,7 @@ langchain-core==0.3.25
 langchain-groq==0.2.1
 langchain-text-splitters==0.3.3
 langsmith==0.2.3
-llama_cpp_python==0.3.5
+llama-cpp-python==0.2.11
 lxml==5.3.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -119,6 +119,3 @@ urllib3==2.2.3
 watchdog==6.0.0
 wheel==0.45.1
 yarl==1.18.3
-llama-cpp-python==0.3.5 --extra-index-url https://download.pytorch.org/whl/cu118
-cmake==3.31.2
-ninja==1.11.1.3
